@@ -3,9 +3,9 @@
 A terminal bonsai tree generator. Written in haskell. Inspired by [cbonsai](https://gitlab.com/jallbrit/cbonsai).
 
 ## Installation
-#### Requires [cabal](https://www.haskell.org/cabal/)
+__Requires [cabal](https://www.haskell.org/cabal/)__
 
-Run:
+To install, run:
 
 ```
 cd hbonsai
